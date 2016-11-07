@@ -21,16 +21,22 @@ intro to chess as a whole to that program.
 ![](Images/king.png)
 
 
-Slide With Code
+The Basic Movements
 ========================================================
 
-```{r}
-summary(cars)
-```
+The first aspect of chess is the basic movements. I show this through
+a series of radio buttons with the option to switch between pieces. Each
+option shows the different pieces and their movement patterns.
 
-Slide With Plot
+![](www/King_moves.png)
+![](www/Rook_moves.png)
+
+The Speciality Movements
 ========================================================
 
-```{r, echo=FALSE}
-plot(cars)
-```
+The second aspect of chess is knowing some of the more subtle movements
+that allow pieces to things that would not seem normal. In order to see
+these movements, the user needed to be able to switch between the normal
+movements and the special ones.
+
+![](Images/Screenshot.png)
