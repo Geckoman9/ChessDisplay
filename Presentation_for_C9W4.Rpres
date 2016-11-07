@@ -1,0 +1,36 @@
+The Young Chess Learners Guide
+========================================================
+author: Adam Jordan
+date: November 7, 2016
+autosize: true
+
+The Problem
+========================================================
+
+Chess is a difficult game of pure strategy; where any luck comes from
+your opponent doing poorly. However, most people do not learn the simple
+game so that they can compete in complex mental warfare. The point of my
+app is to familiarize people with those simple movements the pieces can
+make. There are other unique moves that are necessary for certain
+strategies or survivability. These are also included in my app.
+
+Theoretically, if a more advanced program needed to be created for teaching
+strategy or testing one's skill level, this app would make for a good 
+intro to chess as a whole to that program.
+
+![](Images/king.png)
+
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
